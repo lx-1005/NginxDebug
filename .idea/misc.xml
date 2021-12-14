@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MakefileSettings">
+    <option name="linkedExternalProjectsSettings">
+      <MakefileProjectSettings>
+        <option name="buildTarget" value="" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/nginx-1.21.4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/nginx-1.21.4" />
+          </set>
+        </option>
+        <option name="preConfigureCommands" value="./configure --prefix=/home/projects/NginxDebug/install --with-debug --with-cc-opt=-O0" />
+        <option name="version" value="2" />
+      </MakefileProjectSettings>
+    </option>
+  </component>
+  <component name="MakefileWorkspace" PROJECT_DIR="$PROJECT_DIR$/nginx-1.21.4">
+    <contentRoot DIR="$PROJECT_DIR$" />
+  </component>
+</project>
